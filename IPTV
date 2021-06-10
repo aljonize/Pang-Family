@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/ttr8f1yp/2728/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/732?cb=20200819050409" group-title="Local",Kapamilya Channel
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i1.wp.com/jescom.ph/wp-content/uploads/2019/05/Minor-Basilica-Quiapo-Logo-fifth.png?ssl=1" group-title="Local",Quiapo Church Live Mass
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/watch?v=yNlGLNBwTTw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Local",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754" group-title="Local",GMA 7
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+#EXTINF:-1 tvg-id="BeamTV.ph" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="Local",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local",NET 25
+https://ebc.sytes.net/hls/net25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Pinoy_Extreme_logo.jpg/revision/latest/scale-to-width-down/389?cb=20171213040302" group-title="Local",PinoyXtreme
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/250?cb=20151206073105" group-title="Local",SariSari
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/139.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Mo! Philippines" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo!
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/110.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="News",GTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ANC-2015_%28rev2%29.svg/revision/latest/scale-to-width-down/1000?cb=20151026094948" group-title="News",ANC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="News",DZRH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/512?cb=20200505183052" group-title="News",CNN Philippines
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/104.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="News",UNTV
+https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
+#EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="" group-title="News",Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="Local",One PH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="Learning",K Channel
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/135.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Learning",DepEd TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/756?cb=20200815083543" group-title="Learning",Solar Learning
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="EDUC/DOCU",NATIONAL GEOGRAPHIC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/128.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="EDUC/DOCU",NAT GEO WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-5-1.png" group-title="EDUC/DOCU" tvg-shift="+8",DISCOVERY CHANNEL
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12553_dark_360w_270h.png" group-title="EDUC/DOCU" tvg-shift="+8",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/116.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/126.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="Lifestyle",Food Network
+http://globalsystems.me:8880/Philbell/775623143/70717
+#EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Lifestyle",Asian Food Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/121.m3u8
