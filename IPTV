@@ -9,3 +9,5 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/15.ts
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5762.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1079.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
+http://live.tv247.club/live/footnw.m3u8
