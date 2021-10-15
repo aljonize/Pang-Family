@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1079.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/531?cb=20180904084738" group-title="Local",Disney Jr.
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7918.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest/scale-to-width-down/1000?cb=20171202145010" group-title="Local",Disney XD
@@ -9,3 +7,5 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7919.ts
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/15.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/510?cb=20210619205840" group-title="Local",Boomerang
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5762.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1079.ts
