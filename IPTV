@@ -1,13 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/babytvlogo.png" group-title="Local",BabyTv
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="Local",Cbeebies
+http://103.19.108.220:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Local",Disney Channel
+http://203.101.170.220:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/531?cb=20180904084738" group-title="Local",Disney Jr.
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7918.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest/scale-to-width-down/1000?cb=20171202145010" group-title="Local",Disney XD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7919.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://acttochange.org/wp-content/uploads/2020/10/nickelodeon-logo-png-transparent.png" group-title="Local",Nickelodeon
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/800px-Nick_Jr.logo.png" group-title="Local",Nick Jr.
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20210726224754" group-title="Local",Cartoon Network
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/15.ts
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/510?cb=20210619205840" group-title="Local",Boomerang
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5762.ts
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1079.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
-http://live.tv247.club/live/footnw.m3u8
