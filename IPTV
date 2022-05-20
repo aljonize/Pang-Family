@@ -2,7 +2,16 @@
 #EXTINF:-1,PH ABS CBN
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4492.m3u8
 #EXTINF:-1,PH Food Network
+http://ac.ntvlatino.com:8080/pope/2022/17413
+#EXTINF:-1,PH Food Network
 http://141.95.52.206:6565/play/a087
+#EXTINF:-1,PH Disney Channel
+http://ac.ntvlatino.com:8080/pope/2022/29142
+#EXTINF:-1,PH Disney Jr
+http://ac.ntvlatino.com:8080/pope/2022/29143
+#EXTINF:-1,PH ANIMAX
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567695.m3u8
+
 #EXTINF:-1,PH ABS_CBN_News_Channel
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4493.m3u8
 #EXTINF:-1,PH Cinemo
@@ -19,8 +28,7 @@ http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546789.m3u8
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546795.m3u8
 #EXTINF:-1,PH TV5
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546800.m3u8
-#EXTINF:-1,PH ANIMAX
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567695.m3u8
+
 #EXTINF:-1,PH AXN
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567696.m3u8
 #EXTINF:-1,PH Blue Ant Entertainment
