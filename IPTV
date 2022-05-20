@@ -1,23 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png" group-title="Local",Animax
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/babytvlogo.png" group-title="Local",BabyTv
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="Local",Cbeebies
-http://103.19.108.220:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Local",Disney Channel
-http://203.101.170.220:8000/play/a006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/531?cb=20180904084738" group-title="Local",Disney Jr.
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7918.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest/scale-to-width-down/1000?cb=20171202145010" group-title="Local",Disney XD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7919.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://acttochange.org/wp-content/uploads/2020/10/nickelodeon-logo-png-transparent.png" group-title="Local",Nickelodeon
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/800px-Nick_Jr.logo.png" group-title="Local",Nick Jr.
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20210726224754" group-title="Local",Cartoon Network
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/510?cb=20210619205840" group-title="Local",Boomerang
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Local",Food Network
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1079.ts
+#EXTINF:-1,PH ABS CBN
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4492.m3u8
+#EXTINF:-1,PH Food Network
+http://141.95.52.206:6565/play/a087
+#EXTINF:-1,PH ABS_CBN_News_Channel
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4493.m3u8
+#EXTINF:-1,PH Cinemo
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/331618.m3u8
+#EXTINF:-1,PH CNN
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546787.m3u8
+#EXTINF:-1,PH GMA7
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567713.m3u8
+#EXTINF:-1,PH DZRH News
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546788.m3u8
+#EXTINF:-1,PH MYX
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546789.m3u8
+#EXTINF:-1,PH Cinema One
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546795.m3u8
+#EXTINF:-1,PH TV5
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546800.m3u8
+#EXTINF:-1,PH ANIMAX
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567695.m3u8
+#EXTINF:-1,PH AXN
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567696.m3u8
+#EXTINF:-1,PH Blue Ant Entertainment
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567697.m3u8
+#EXTINF:-1,PH Cartoon NW
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567698.m3u8
+#EXTINF:-1,PH CELESTIAL MOV PINOY
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567699.m3u8
+#EXTINF:-1,PH CGTV DOC
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567700.m3u8
+#EXTINF:-1,PH Cinemax
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567701.m3u8
+#EXTINF:-1,PH Discovery
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567707.m3u8
+#EXTINF:-1,PH Discovery Asia
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567708.m3u8
+#EXTINF:-1,PH ETC
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567710.m3u8
+#EXTINF:-1,PH IBC13
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567719.m3u8
+#EXTINF:-1,PH Knowledge Channel
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567725.m3u8
+#EXTINF:-1,PH Knowledge Channel
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567726.m3u8
+#EXTINF:-1,PH MOR
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567729.m3u8
+#EXTINF:-1,PH NET25
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567730.m3u8
+#EXTINF:-1,PH Nick
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567731.m3u8
+#EXTINF:-1,PH One PH
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567732.m3u8
+#EXTINF:-1,PH One Screen
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567733.m3u8
+#EXTINF:-1,PH Outdoor Channel
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567734.m3u8
+#EXTINF:-1,PH PBO
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567735.m3u8
+#EXTINF:-1,PH PINOY XTREME
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567736.m3u8
+#EXTINF:-1,PH PPV
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567737.m3u8
+#EXTINF:-1,PH PTV4
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567738.m3u8
+#EXTINF:-1,PH QTV
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567739.m3u8
+#EXTINF:-1,PH SARI SARI
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567740.m3u8
+#EXTINF:-1,PH SHOPTV
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567741.m3u8
+#EXTINF:-1,PH SMNI
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567742.m3u8
+#EXTINF:-1,PH TeleNovela
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567743.m3u8
+#EXTINF:-1,PH Thrill
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567745.m3u8
+#EXTINF:-1,PH TLC
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567746.m3u8
+#EXTINF:-1,PH Travel Channel
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567747.m3u8
+#EXTINF:-1,PH TV5
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567748.m3u8
+#EXTINF:-1,PH TVN
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567751.m3u8
+#EXTINF:-1,PH TVSHOP
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567752.m3u8
+#EXTINF:-1,PH UNTV
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567753.m3u8
+#EXTINF:-1,PH VIVA CINEMA
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567754.m3u8
+#EXTINF:-1,PH UNTV
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567755.m3u8
