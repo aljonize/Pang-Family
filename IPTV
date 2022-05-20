@@ -38,7 +38,12 @@ http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546800.m3u8
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567696.m3u8
 #EXTINF:-1,PH Blue Ant Entertainment
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567697.m3u8
-
+#EXTINF:-1,PH HBO Family
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567714.m3u8
+#EXTINF:-1,PH HBO HITS
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567715.m3u8
+#EXTINF:-1,PH HITS Movies
+http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567717.m3u8
 #EXTINF:-1,PH CELESTIAL MOV PINOY
 http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567699.m3u8
 #EXTINF:-1,PH CGTV DOC
