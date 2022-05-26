@@ -1,112 +1,36 @@
 #EXTM3U
-#EXTINF:-1,1 ABS CBN
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4492.m3u8
-#EXTINF:-1,2 Food Network
-http://ac.ntvlatino.com:8080/pope/2022/17413
-#EXTINF:-1,3 Food Network
-http://141.95.52.206:6565/play/a087
-#EXTINF:-1,4 Disney Channel
-http://ac.ntvlatino.com:8080/pope/2022/29142
-#EXTINF:-1,5 Disney Jr
-http://ac.ntvlatino.com:8080/pope/2022/29143
-#EXTINF:-1,6 Disney XD
-http://ac.ntvlatino.com:8080/pope/2022/29144
-#EXTINF:-1,7 ANIMAX
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567695.m3u8
-#EXTINF:-1,8 Cartoon Network
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567698.m3u8
-#EXTINF:-1,9 Boomerang
-http://ac.ntvlatino.com:8080/pope/2022/29147
-#EXTINF:-1,10 ABS_CBN_News_Channel
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/4493.m3u8
-
-#EXTINF:-1,PH Cinemo
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/331618.m3u8
-#EXTINF:-1,PH CNN
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546787.m3u8
-#EXTINF:-1,PH GMA7
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567713.m3u8
-#EXTINF:-1,PH DZRH News
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546788.m3u8
-#EXTINF:-1,PH MYX
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546789.m3u8
-#EXTINF:-1,PH Cinema One
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546795.m3u8
-#EXTINF:-1,PH TV5
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/546800.m3u8
-#EXTINF:-1,PH AXN
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567696.m3u8
-#EXTINF:-1,PH Blue Ant Entertainment
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567697.m3u8
-#EXTINF:-1,PH HBO Family
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567714.m3u8
-#EXTINF:-1,PH HBO HITS
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567715.m3u8
-#EXTINF:-1,PH HITS Movies
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567717.m3u8
-#EXTINF:-1,PH CELESTIAL MOV PINOY
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567699.m3u8
-#EXTINF:-1,PH CGTV DOC
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567700.m3u8
-#EXTINF:-1,PH Cinemax
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567701.m3u8
-#EXTINF:-1,PH Discovery
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567707.m3u8
-#EXTINF:-1,PH Discovery Asia
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567708.m3u8
-#EXTINF:-1,PH ETC
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567710.m3u8
-#EXTINF:-1,PH IBC13
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567719.m3u8
-#EXTINF:-1,PH Knowledge Channel
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567725.m3u8
-#EXTINF:-1,PH Knowledge Channel
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567726.m3u8
-#EXTINF:-1,PH MOR
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567729.m3u8
-#EXTINF:-1,PH NET25
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567730.m3u8
-#EXTINF:-1,PH Nick
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567731.m3u8
-#EXTINF:-1,PH One PH
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567732.m3u8
-#EXTINF:-1,PH One Screen
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567733.m3u8
-#EXTINF:-1,PH Outdoor Channel
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567734.m3u8
-#EXTINF:-1,PH PBO
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567735.m3u8
-#EXTINF:-1,PH PINOY XTREME
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567736.m3u8
-#EXTINF:-1,PH PPV
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567737.m3u8
-#EXTINF:-1,PH PTV4
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567738.m3u8
-#EXTINF:-1,PH QTV
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567739.m3u8
-#EXTINF:-1,PH SARI SARI
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567740.m3u8
-#EXTINF:-1,PH SHOPTV
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567741.m3u8
-#EXTINF:-1,PH SMNI
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567742.m3u8
-#EXTINF:-1,PH TeleNovela
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567743.m3u8
-#EXTINF:-1,PH Thrill
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567745.m3u8
-#EXTINF:-1,PH TLC
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567746.m3u8
-#EXTINF:-1,PH Travel Channel
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567747.m3u8
-#EXTINF:-1,PH TV5
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567748.m3u8
-#EXTINF:-1,PH TVN
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567751.m3u8
-#EXTINF:-1,PH TVSHOP
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567752.m3u8
-#EXTINF:-1,PH UNTV
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567753.m3u8
-#EXTINF:-1,PH VIVA CINEMA
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567754.m3u8
-#EXTINF:-1,PH UNTV
-http://restream-live.realiptv.to:8080/live/hankstreamer/sYWcksogwN/567755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH : ABS CBN" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : ABS CBN
+http://mains.services:2086/clayboy/65Jssx1yS9/98644
+#EXTINF:-1 tvg-id="" tvg-name="PH : ABS CBN NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : ABS CBN NEWS
+http://mains.services:2086/clayboy/65Jssx1yS9/93230
+#EXTINF:-1 tvg-id="" tvg-name="PH : ANIMAX" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : ANIMAX
+http://mains.services:2086/clayboy/65Jssx1yS9/93232
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEAM TV" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : BEAM TV
+http://mains.services:2086/clayboy/65Jssx1yS9/93233
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEIN SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 1
+http://mains.services:2086/clayboy/65Jssx1yS9/98647
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEIN SPORTS 2" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 2
+http://mains.services:2086/clayboy/65Jssx1yS9/98648
+#EXTINF:-1 tvg-id="" tvg-name="PH : CARTOON NETWORK" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : CARTOON NETWORK
+http://mains.services:2086/clayboy/65Jssx1yS9/93238
+#EXTINF:-1 tvg-id="" tvg-name="PH : CELESTIAL MOV PINOY" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : CELESTIAL MOV PINOY
+http://mains.services:2086/clayboy/65Jssx1yS9/98650
+#EXTINF:-1 tvg-id="" tvg-name="PH : CINEMA ONE" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : CINEMA ONE
+http://mains.services:2086/clayboy/65Jssx1yS9/98652
+#EXTINF:-1 tvg-id="" tvg-name="PH : CINEMO" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : CINEMO
+http://mains.services:2086/clayboy/65Jssx1yS9/98645
+#EXTINF:-1 tvg-id="" tvg-name="PH : CLASSIC MOVIES" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : CLASSIC MOVIES
+http://mains.services:2086/clayboy/65Jssx1yS9/98651
+#EXTINF:-1 tvg-id="" tvg-name="PH : CNN PHILIPPINES" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : CNN PHILIPPINES
+http://mains.services:2086/clayboy/65Jssx1yS9/98655
+#EXTINF:-1 tvg-id="" tvg-name="PH : DISCOVERY ASIA WORLD" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : DISCOVERY ASIA WORLD
+http://mains.services:2086/clayboy/65Jssx1yS9/98656
+#EXTINF:-1 tvg-id="" tvg-name="PH : DWKC TV" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : DWKC TV
+http://mains.services:2086/clayboy/65Jssx1yS9/98798
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA 7" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : GMA 7
+http://mains.services:2086/clayboy/65Jssx1yS9/104597
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA LIFE" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : GMA LIFE
+http://mains.services:2086/clayboy/65Jssx1yS9/93229
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/9ec75097ce44559e94e404d6a2d395ab.png" group-title="PHILIPPINES TV",PH : GMA NEWS
+http://mains.services:2086/clayboy/65Jssx1yS9/98657
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA PINOY" tvg
