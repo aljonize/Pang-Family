@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PH : Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="PHILIPPINES TV",PH : ABS CBN
+#EXTINF:-1 tvg-id="" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="PHILIPPINES TV",PH : ABS CBN
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144837
-#EXTINF:-1 tvg-id="" tvg-name="PH : GMA" tvg-logo="https://www.kindpng.com/picc/m/700-7001462_gma-network-official-logo-gma-logo-png-transparent.png" group-title="PHILIPPINES TV",PH : GMA
+#EXTINF:-1 tvg-id="" tvg-name="GMA" tvg-logo="https://www.kindpng.com/picc/m/700-7001462_gma-network-official-logo-gma-logo-png-transparent.png" group-title="PHILIPPINES TV",PH : GMA
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/295310
-#EXTINF:-1 tvg-id="" tvg-name="PH : ANC" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png" group-title="PHILIPPINES TV",PH : ANC
+#EXTINF:-1 tvg-id="" tvg-name="ANC" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png" group-title="PHILIPPINES TV",PH : ANC
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144833
-#EXTINF:-1 tvg-id="" tvg-name="PH : Bloomberg" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="PHILIPPINES TV",PH : Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="PHILIPPINES TV",PH : Bloomberg
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144834
-#EXTINF:-1 tvg-id="" tvg-name="PH : CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="PHILIPPINES TV",PH : CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="PHILIPPINES TV",PH : CNN
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144855
-#EXTINF:-1 tvg-id="" tvg-name="PH : CNN Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="PHILIPPINES TV",PH : CNN Philippines
+#EXTINF:-1 tvg-id="" tvg-name="CNN Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="PHILIPPINES TV",PH : CNN Philippines
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/170005
-#EXTINF:-1 tvg-id="" tvg-name="PH : Food Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Food Network
 http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144857
