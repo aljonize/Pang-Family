@@ -3,7 +3,7 @@
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57382
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="PHILIPPINES TV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngitem.com/pimgs/m/340-3406128_gma-network-logo-hd-png-download.png", group-title="PHILIPPINES TV",GMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="PHILIPPINES TV",GMA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390709
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="PHILIPPINES TV",ANC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225349
