@@ -1,37 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PH : Kapamilya Channel" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : ABS CBN
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/144837
-#EXTINF:-1 tvg-id="" tvg-name="PH : ANC" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : ANC
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/285601
-#EXTINF:-1 tvg-id="" tvg-name="PH : ANC 2" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : ANC 2
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/144833
-#EXTINF:-1 tvg-id="" tvg-name="PH : Bloomberg" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Bloomberg
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/144834
-#EXTINF:-1 tvg-id="" tvg-name="PH : Cartoon Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Cartoon Network
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/144835
+#EXTINF:-1 tvg-id="" tvg-name="PH : Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="PHILIPPINES TV",PH : ABS CBN
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144837
+
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA" tvg-logo="https://www.kindpng.com/picc/m/700-7001462_gma-network-official-logo-gma-logo-png-transparent.png" group-title="PHILIPPINES TV",PH : GMA
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/295310
+
+#EXTINF:-1 tvg-id="" tvg-name="PH : ANC" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png" group-title="PHILIPPINES TV",PH : ANC
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144833
+
+#EXTINF:-1 tvg-id="" tvg-name="PH : Bloomberg" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="PHILIPPINES TV",PH : Bloomberg
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144834
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : CNN" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : CNN
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/144855
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144855
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : CNN Philippines" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : CNN Philippines
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/170005
-#EXTINF:-1 tvg-id="" tvg-name="PH : GMA" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : GMA
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/295310
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/170005
+
+#EXTINF:-1 tvg-id="" tvg-name="PH : Cartoon Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Cartoon Network
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : TV5" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : TV5
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/171991
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Disney Channel" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Disney Channel
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1113
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Disney Junior" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Disney Junior
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1112
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Disney Junior" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Disney Junior
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/8608
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Food Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Food Network
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1724
+http://quality-restream.com:8080/googleiptvex/VcbzsW96aBnKXDRx/144857
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Food Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Food Network
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/196454
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Food Network" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Food Network
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/2315
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Discovery Turbo" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Discovery Turbo
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1114
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Discovery Velocity" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Discovery Velocity
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/273691
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PH : Nick Jr" tvg-logo="https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png" group-title="PHILIPPINES TV",PH : Nick Jr
-http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1098
+
