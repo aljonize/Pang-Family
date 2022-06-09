@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="PHILIPPINES TV",Kapamilya Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="IPTV",Kapamilya Channel
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57382
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="PHILIPPINES TV",Teleradyo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="IPTV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="PHILIPPINES TV",GMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390709
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="PHILIPPINES TV",ANC
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225349
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="PHILIPPINES TV",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144834
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="PHILIPPINES TV",CNN Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="IPTV",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="PHILIPPINES TV",Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="IPTV",Food Network
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/15026
-#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CANADIAN TV",FOOD NETWORK
+#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="IPTV",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="USA TV (LOW-BITRATE)",FOOD NETWORK
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="IPTV",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="PHILIPPINES TV",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="IPTV",Asian Food Network
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390123
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="http://wayforward.xyz:25461/images/2095a30ee6503161a358227d63ea5c39.png" group-title="CANADIAN TV",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="http://wayforward.xyz:25461/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="KIDS TV",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56368
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="http://n2086.securepoint.io:25461/images/565dae30b97153572f26f9ed38f72f0a.png" group-title="CANADIAN TV",DISNEY JR
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="http://n2086.securepoint.io:25461/images/565dae30b97153572f26f9ed38f72f0a.png" group-title="IPTV",DISNEY JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53674
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="KIDS TV",DISNEY JR
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="IPTV",DISNEY JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US-720 : NICK JR" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="USA TV (LOW-BITRATE)",NICK JR
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US-720 : NICK JR" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="IPTV",NICK JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53540
-#EXTINF:-1 tvg-id="nicktoons" tvg-name="US-720 : NICK Toons" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="USA TV (LOW-BITRATE)",Nicktoons
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="US-720 : NICK Toons" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="IPTV",Nicktoons
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/290602
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="GB : DISCOVERY TURBO" tvg-logo="http://n2086.securepoint.io:25461/images/394f70f4143a6ee42340a3246cf5cda5.png" group-title="UK TV",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="GB : DISCOVERY TURBO" tvg-logo="http://n2086.securepoint.io:25461/images/394f70f4143a6ee42340a3246cf5cda5.png" group-title="IPTV",DISCOVERY TURBO
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53881
-#EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="GB : DISCOVERY TURBO +1" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="UK TV",DISCOVERY TURBO +1
+#EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="GB : DISCOVERY TURBO +1" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="IPTV",DISCOVERY TURBO +1
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/204629
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="FOX/BALLY SPORTS",FOX SPORTS 1
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS 1
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54775
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="FOX/BALLY SPORTS",FOX SPORTS
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54776
