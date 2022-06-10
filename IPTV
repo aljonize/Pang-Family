@@ -4,7 +4,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57382
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="IPTV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295310
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/200488
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225349
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
@@ -35,6 +35,8 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="IPTV",Asian Food Network
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="IPTV",Animax
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
