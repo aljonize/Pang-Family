@@ -51,9 +51,9 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53674
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="IPTV",DISNEY JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="US-720 : NICK JR" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="IPTV",NICK JR
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1098
-#EXTINF:-1 tvg-id="nicktoons" tvg-name="US-720 : NICK Toons" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="IPTV",Nicktoons
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2351
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290391
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="US-720 : NICK Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/688px-Nicktoons_UK_Logo_2010.svg.png" group-title="IPTV",Nicktoons
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174684
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
@@ -69,13 +69,13 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264824
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.nicepng.com/png/full/332-3321610_discovery-discovery-channel.png" group-title="Entertainment",Discovery Channel
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225369
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Entertainment",Discovery World
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144858
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/273674
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest/scale-to-width-down/150?cb=20120123233047" group-title="Entertainment",Discovery Science
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290582
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174724
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/274106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295940
 #EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
