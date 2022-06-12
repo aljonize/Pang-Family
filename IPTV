@@ -9,6 +9,8 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225371
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
@@ -27,9 +29,6 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/6.m3u8
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/640px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
@@ -38,10 +37,16 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/1000?cb=20180509053533" group-title="News",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Pinoy_Extreme_logo.jpg/revision/latest/scale-to-width-down/389?cb=20171213040302" group-title="Local",PinoyXtreme
+http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://en.m.wikipedia.org/wiki/File:Metro_Channel_logo.png" group-title="Local",Metro
+http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225396
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="IPTV",Food Network
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/196454
@@ -55,10 +60,6 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390123
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225351
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.png" group-title="IPTV",Dreamworks TV
-http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/23.m3u8
-
-
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56368
 #EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="http://n2086.securepoint.io:25461/images/565dae30b97153572f26f9ed38f72f0a.png" group-title="IPTV",DISNEY JR
@@ -69,6 +70,9 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290391
 #EXTINF:-1 tvg-id="nicktoons" tvg-name="US-720 : NICK Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/688px-Nicktoons_UK_Logo_2010.svg.png" group-title="IPTV",Nicktoons
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283022
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.png" group-title="IPTV",Dreamworks TV
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/23.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174684
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
@@ -90,6 +94,10 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290582
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
+http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
+http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/49.m3u8
+
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/274106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295940
@@ -122,8 +130,8 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/13.m3u8
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/91.m3u8=1
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225395
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/276532
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
