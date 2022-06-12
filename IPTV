@@ -3,6 +3,8 @@
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57382
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="IPTV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225371
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
@@ -21,14 +23,11 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="Local",One PH
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
-http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="News",DZRH
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225371
+
 #EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
@@ -99,8 +98,16 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285307
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54775
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54776
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="South Korea",KBS World
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157475
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/76.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVA
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/13.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/276532
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
