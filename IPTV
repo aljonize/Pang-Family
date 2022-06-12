@@ -27,8 +27,8 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/6.m3u8
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/640px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="" group-title="News",test
-http://jcxbdcwckneeb.be:8080/9evVA9oXtd/McqgUSLNCK/225353?play_token=NfPalVl2AM
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
