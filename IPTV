@@ -119,7 +119,7 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
-http://402173207.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=nh4AAHoDz4NRn24W&secondToken=secondToken%3A6kDCojSbg4qhwU1j8Jgeg_Hvo2M&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/91.m3u8=1
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
