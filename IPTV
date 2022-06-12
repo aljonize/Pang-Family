@@ -19,6 +19,10 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="News",GTV
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="Local",One PH
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="News",DZRH
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="" group-title="News",Super Radyo DZBB
@@ -87,6 +91,8 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/78.m3u8
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/324?cb=20170731002804" group-title="Sports",NBA TV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/281638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="Sports",Fight Network
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="Sports",WWE Network
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285307
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS 1
@@ -103,5 +109,3 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157518
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390712
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157519
-
-
