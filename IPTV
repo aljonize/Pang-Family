@@ -10,7 +10,7 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225349
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144834
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="IPTV",CNN Philippines
@@ -93,6 +93,9 @@ http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/274106
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295940
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/131249/26091_576852.jpeg" group-title="Entertainment",Techstorm
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
+http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/75.m3u8
+
 #EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/324?cb=20170731002804" group-title="Sports",NBA TV
@@ -115,6 +118,8 @@ http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/76.m3u8
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
+http://402173207.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=nh4AAHoDz4NRn24W&secondToken=secondToken%3A6kDCojSbg4qhwU1j8Jgeg_Hvo2M&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
