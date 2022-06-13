@@ -14,7 +14,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144834
+http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/44.m3u8
 #EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="IPTV",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="IPTV",SMNI
@@ -117,13 +117,13 @@ http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/50.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/324?cb=20170731002804" group-title="Sports",NBA TV
 http://wayforward.xyz:25461/Stacy1/Stacy1/55195
 #EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_Bull_GmbH_logo.svg/512px-Red_Bull_GmbH_logo.svg.png" group-title="Sports",RedBull TV
-http://wayforward.xyz:25461/Stacy1/Stacy1/54940
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="redbulltv.us" tvg-name="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_300_h_100.jpg" group-title="Sports",Fight Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_300_h_100.jpg" group-title="Sports",Fight Sports
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="Sports",WWE Network
-http://wayforward.xyz:25461/Stacy1/Stacy1/54904
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285307
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/32.m3u8
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS 1
