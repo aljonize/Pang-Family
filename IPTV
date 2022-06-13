@@ -60,7 +60,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="IPTV",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="IPTV",Animax
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225351
+http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/24.m3u8
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
