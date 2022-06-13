@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="IPTV",Kapamilya Channel
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="IPTV",Kapamilya Channel
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="IPTV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225371
+https://stream-01.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwMB-9kFWF2gATtOr1zWXwdmypNuuIHp-EnqQXkJQ_0Be)/dm/3/x5cr6b9/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="IPTV",ANC
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="IPTV",Bloomberg
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144834
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="IPTV",CNN Philippines
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="IPTV",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="IPTV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -43,7 +43,7 @@ http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/43.m3u8
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/79.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://en.m.wikipedia.org/wiki/File:Metro_Channel_logo.png" group-title="Local",Metro
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/21.m3u8
@@ -59,7 +59,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="IPTV",Asian Food Network
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="IPTV",Animax
+#EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="IPTV",Animax
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225351
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="IPTV",DISNEY CHANNEL
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
@@ -130,7 +130,7 @@ http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/32.m3u8
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54775
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54776
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
+#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/14.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
@@ -160,7 +160,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES",HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157519
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
