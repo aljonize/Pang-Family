@@ -41,7 +41,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Pinoy_Extreme_logo.jpg/revision/latest/scale-to-width-down/389?cb=20171213040302" group-title="Local",PinoyXtreme
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://en.wikipedia.org/wiki/Metro_Channel#/media/File:Metro_Channel_logo.png" group-title="Local",Metro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="Local",Metro
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/58.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
@@ -123,7 +123,7 @@ http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logos.fandom.com/wiki/Fight_Sports?file=FIGHT_SPORTS_2018.png" group-title="Sports",Fight Network
 http://103.105.213.251:8443/live/BxuGFGfNQREQEbOpF0wtyg/1655140080/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="Sports",WWE Network
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285307
+http://wayforward.xyz:25461/Stacy1/Stacy1/54904
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/32.m3u8
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS 1
