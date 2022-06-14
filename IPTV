@@ -170,7 +170,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/16.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&FLIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/&flix_HD.svg/revision/latest/scale-to-width-down/140?cb=20200430075753" group-title="MOVIES" tvg-shift="+8",&FLIX HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&FLIX HD" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/05/Flix.jpg" group-title="MOVIES" tvg-shift="+8",&FLIX HD
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/69286
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
