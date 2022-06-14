@@ -148,7 +148,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/56.m3u8
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png" group-title="Movies",Rock Extreme
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/57.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157518
+http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/15.m3u8
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390712
 
