@@ -38,13 +38,13 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/1000?cb=20210221082245" group-title="News",CNBC
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Pinoy_Extreme_logo.jpg/revision/latest/scale-to-width-down/389?cb=20171213040302" group-title="Local",PinoyXtreme
-http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/79.m3u8
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/79.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Local",Metro
-http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/58.m3u8
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/58.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
-
+#EXTINF:-1 tvg-id="" tvg-name="PH: Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/21.m3u8
