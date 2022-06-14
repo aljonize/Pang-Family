@@ -3,8 +3,6 @@
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="IPTV",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
-https://stream-01.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwMB-9kFWF2gATtOr1zWXwdmypNuuIHp-EnqQXkJQ_0Be)/dm/3/x5cr6b9/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png", group-title="IPTV",GMA 7
