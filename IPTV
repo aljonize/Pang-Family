@@ -43,6 +43,9 @@ http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/79.m3u8
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/58.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="PH: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/21.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
@@ -88,21 +91,18 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/204629
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://img.hplus.com.vn/728x409/banner/2021/10/10/698575-discovery-asia-white-final-fix2.png" group-title="Entertainment",Discovery Asia
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.nicepng.com/png/full/332-3321610_discovery-discovery-channel.png" group-title="Entertainment",Discovery Channel
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225369
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Entertainment",Discovery World
-http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/273674
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest/scale-to-width-down/150?cb=20120123233047" group-title="Entertainment",Discovery Science
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290582
+http://wayforward.xyz:25461/Stacy1/Stacy1/54946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
-http://103.105.213.251:8443/live/9TapciPSc8GnVTaYmIJ_FA/1655244153/64.m3u8
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
-http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/51.m3u8
-
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
 http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/49.m3u8
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/274106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295940
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/131249/26091_576852.jpeg" group-title="Entertainment",Techstorm
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
@@ -140,7 +140,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
-http://103.105.213.251:8443/live/2M3iEq3Q5SPVimjafrQ3mQ/1655171816/91.m3u8
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
 http://203.154.177.124:8899/live/ch21/chunks.m3u8
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="Movies",Rock Entertainment
