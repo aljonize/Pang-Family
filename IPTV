@@ -44,7 +44,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/58.m3u8
 #EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/60.m3u8
 #EXTINF:-1 tvg-id="AXN.ph" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
-http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
+http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 #EXTINF:-1 tvg-id="CrimeInvestigation.ph" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
