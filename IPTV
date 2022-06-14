@@ -173,7 +173,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/16.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&FLIX HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1" group-title="MOVIES" tvg-shift="+8",&FLIX HD
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/69286
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.pinimg.com/736x/98/91/a0/9891a0147bc6c79a5db59e9011224904.jpg" group-title="Movies",Paramanount Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.pinimg.com/originals/30/c4/63/30c463adae887d60ab1d195273e487aa.png" group-title="Movies",Paramanount Network
 http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/59.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
