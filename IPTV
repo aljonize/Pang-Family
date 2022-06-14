@@ -45,7 +45,8 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/58.m3u8
 http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
 #EXTINF:-1 tvg-id="" tvg-name="PH: Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/35.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/21.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
@@ -151,6 +152,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/57.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157518
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390712
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES",HBO Family HD
@@ -162,7 +164,10 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157519
+http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
+http://103.105.213.251:8443/live/WBqmuQBLGG1pFon5K38XpQ/1655213729/59.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
