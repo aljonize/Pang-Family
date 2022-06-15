@@ -5,7 +5,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/11.m3u8
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/8.m3u8
-#EXTINF:-1 tvg-id="GMA7.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="IPTV",GMA 7
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="IPTV",GMA 7
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
@@ -47,7 +47,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/60.m3u8
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
-#EXTINF:-1 tvg-id="CrimeInvestigation.ph" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/35.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/21.m3u8
@@ -75,7 +75,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56368
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53674
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="IPTV",DISNEY JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
+#EXTINF:-1 tvg-id="NickelodeonPhilippines.ph" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
 http://wayforward.xyz:25461/Stacy1/Stacy1/53541
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="US-720 : NICK JR" tvg-logo="http://wayforward.xyz:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="IPTV",NICK JR
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/27.m3u8
@@ -101,15 +101,15 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/45.m3u8
 http://wayforward.xyz:25461/Stacy1/Stacy1/54946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicPhilippines.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HistoryChannel.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
+#EXTINF:-1 tvg-id="HistoryPhilippines.ph" tvg-name="HistoryChannel.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/131249/26091_576852.jpeg" group-title="Entertainment",Techstorm
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYX.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MYX.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="Music",MTV Live
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/66.m3u8
@@ -142,7 +142,7 @@ http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/14.m3u8
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/76.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVA
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVACinema
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/13.m3u8
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/9.m3u8
@@ -154,7 +154,7 @@ http://203.154.177.124:8899/live/ch21/chunks.m3u8
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/56.m3u8
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png" group-title="Movies",Rock Extreme
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/57.m3u8
-#EXTINF:-1 tvg-id="HBO.ph" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://103.105.213.251:8443/live/gI0B7vVKmR_q2IBGT30h8w/1655300852/15.m3u8
 #EXTINF:-1 tvg-id="Hbh.ph" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390712
