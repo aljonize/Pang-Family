@@ -124,7 +124,7 @@ http://103.105.213.251:8443/live/6bjggSkoB9MPnwrrhowpTg/1655466759/50.m3u8
 http://wayforward.xyz:25461/Stacy1/Stacy1/55195
 #EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_Bull_GmbH_logo.svg/512px-Red_Bull_GmbH_logo.svg.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
+#EXTINF:-1 tvg-id="" tvg-name="Tap Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 http://103.105.213.251:8443/live/6bjggSkoB9MPnwrrhowpTg/1655466759/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_300_h_100.jpg" group-title="Sports",Fight Sports
 http://103.105.213.251:8443/live/6bjggSkoB9MPnwrrhowpTg/1655466759/18.m3u8
