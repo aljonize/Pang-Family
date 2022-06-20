@@ -101,9 +101,9 @@ http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/46.m3u8
 http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest/scale-to-width-down/150?cb=20120123233047" group-title="Entertainment",Discovery Science
 http://wayforward.xyz:25461/Stacy1/Stacy1/54946
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="NationalGeographicPhilippines.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/64.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicPhilippines.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
 http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/51.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
 http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/49.m3u8
