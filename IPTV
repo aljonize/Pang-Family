@@ -118,7 +118,7 @@ http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/66.m3u8
 #EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="y" tvg-name="IGN" tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="Gaming",IGN
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/137794
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_%28TV_network%29.png/revision/latest/scale-to-width-down/780?cb=20200308081417" group-title="Sports",One Sports
 http://103.105.213.251:8443/live/XEMWy0T8LqY2CX5JwD4z2Q/1655743388/50.m3u8
