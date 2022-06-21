@@ -184,9 +184,9 @@ http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/22.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
-https://delivery.macan.network/stream/hbo_family/playlist.m3u8?token=44wamfr&v=20200807
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
-https://delivery.macan.network/stream/hbo_hits/playlist.m3u8?token=44wamfr&v=20200807
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
-https://delivery.macan.network/stream/hbo_signature/playlist.m3u8?token=44wamfr&v=20200807
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png",HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
