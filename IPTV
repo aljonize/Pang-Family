@@ -57,9 +57,9 @@ http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/35.m3u8
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/21.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53308
-#EXTINF:-1 tvg-id="TLC.my" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/47.m3u8
-#EXTINF:-1 tvg-id="HGTV.my" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/87.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="IPTV",Asian Food Network
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/63.m3u8
