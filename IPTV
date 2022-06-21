@@ -141,7 +141,7 @@ http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/32.m3u8
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54775
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="IPTV",FOX SPORTS
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54776
-#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/14.m3u8
 #EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://103.105.213.251:8443/live/Gchts-XZn91lbERWMnj7Mw/1655832361/12.m3u8
