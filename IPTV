@@ -49,7 +49,7 @@ http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/58.m3u8
 http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png" group-title="Entertainment",Lifetime
 http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/55.m3u8
