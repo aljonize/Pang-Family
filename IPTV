@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
@@ -31,9 +31,9 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/1000?cb=20190417224656" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-id="ChannelNewsAsia.in" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/1000?cb=20190417224656" group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/1000?cb=20180509053533" group-title="News",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
