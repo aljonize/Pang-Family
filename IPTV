@@ -48,7 +48,7 @@ http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/58.m3u8
 #EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/62.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115620&extension=ts&play_token=shv19sZenn
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png" group-title="Entertainment",Lifetime
@@ -56,15 +56,15 @@ http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/55.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
 http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/35.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/21.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115823&extension=ts&play_token=DeYV0qiYzd
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53308
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/47.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8243&extension=ts&play_token=kHdj7InD68
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/87.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15181&extension=ts&play_token=ghX6SEFC6A
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="Lifestyle",Asian Food Network
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/63.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141593&extension=ts&play_token=h0c30RAGqK
 #EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
@@ -80,7 +80,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53674
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="Kids",DISNEY JR
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
 #EXTINF:-1 tvg-id="NickelodeonPhilippines.ph" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/28.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115747&extension=ts&play_token=sWL7KJZ8sz
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png" group-title="Kids",Nick Jr.
 http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/27.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nick Toons
@@ -178,7 +178,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
-http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/59.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17305&extension=ts&play_token=iyRDVm2pof
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://103.105.213.251:8443/live/tWu0GHG7sYhWKQGuGCpFJg/1656172480/16.m3u8
