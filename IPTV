@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
-https://ydKAaGNBgW.akamaized.net/out/u/3061.mpd
+http://103.105.213.251:8443/live/oIiri0-Bg0Ntgq7v6QNdjA/1657018424/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Live TV",PTV
