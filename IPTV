@@ -73,7 +73,7 @@ http://103.105.213.251:8443/live/oIiri0-Bg0Ntgq7v6QNdjA/1657018424/87.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="Lifestyle",Asian Food Network
 http://103.105.213.251:8443/live/oIiri0-Bg0Ntgq7v6QNdjA/1657018424/63.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
