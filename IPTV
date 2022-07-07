@@ -15,7 +15,7 @@ http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
-http://fortv.cc:8080/live/jsc/jsc/101824.ts
+https://rotf.lol/sari-sari
 #EXTINF:-1 tvg-id="A2ZChannel11.ph" tvg-logo="https://i.imgur.com/B2q00TE.png" group-title="Live TV",A2Z
 http://motiontv.xyz:2052/play/IXR2-ECgw6MWZbWf0DPt9o85oQrNzNE6ZKtWRDP6wq4
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
@@ -100,6 +100,8 @@ http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/29.m3u8
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Solar Learning" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://solarlearning.ph/wp-content/uploads/extender-pro/genesis/images/logo-deped-als.png" group-title="Kids",DepEd ALS
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="Learning",K Channel
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="GB : DISCOVERY TURBO" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="Entertainment",DISCOVERY TURBO
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53881
 #EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="GB : DISCOVERY TURBO +1" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="Entertainment",DISCOVERY TURBO +1
@@ -155,7 +157,7 @@ http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/14.m3u8
 #EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cs2bVeW.png" group-title="Live TV",Cine Mo!
-http://reflix.xyz:2052/play/IXR2-ECgw6MWZbWf0DPt9qnxafMAZ6fW1y1WAPj45vk
+https://rotf.lol/cinemo
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVACinema
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/13.m3u8
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
@@ -187,6 +189,9 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/59.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8" group-title="Live TV",Star Movies
+https://rotf.lol/2wh9sxry
+
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/16.m3u8
 
@@ -198,6 +203,13 @@ http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/69286
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="Movies",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",HITS Movies
-http://103.105.213.251:8443/live/9YMr4BWJ0HUSIvXMMAd0XQ/1657278639/22.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hits-movies.png", HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="电影" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png", ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
