@@ -16,8 +16,7 @@ http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/5.m3u8
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
 https://rotf.lol/sari-sari
-#EXTINF:-1 tvg-id="A2ZChannel11.ph" tvg-logo="https://i.imgur.com/B2q00TE.png" group-title="Live TV",A2Z
-http://motiontv.xyz:2052/play/IXR2-ECgw6MWZbWf0DPt9o85oQrNzNE6ZKtWRDP6wq4
+
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/76.m3u8
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="Local",ANC
