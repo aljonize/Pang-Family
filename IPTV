@@ -57,7 +57,7 @@ http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/60.m3u8
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/62.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png" group-title="Entertainment",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/55.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/35.m3u8
