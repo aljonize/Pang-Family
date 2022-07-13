@@ -158,7 +158,7 @@ http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/14.m3u8
 #EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cs2bVeW.png" group-title="Live TV",Cine Mo!
-https://rotf.lol/cinemo
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/1280x720_2891636/index.m3u8
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVACinema
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/13.m3u8
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
@@ -191,7 +191,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8" group-title="Live TV",Star Movies
-https://rotf.lol/2wh9sxry
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 http://103.105.213.251:8443/live/gNaehvRngfr4xhmliS2uaQ/1657734243/16.m3u8
