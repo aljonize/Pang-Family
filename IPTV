@@ -4,7 +4,7 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
-http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/11.m3u8
+https://bit.ly/3t5djn0
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Live TV",PTV
@@ -13,7 +13,7 @@ https://rotf.lol/ptv04
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/8.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA 7
-http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/5.m3u8
+https://bit.ly/3zsxmj3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
@@ -105,7 +105,7 @@ http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Solar Learning" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://solarlearning.ph/wp-content/uploads/extender-pro/genesis/images/logo-deped-als.png" group-title="Kids",DepEd ALS
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="Learning",K Channel
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
+http://live.lordstreams.co:8080/david1/david1/567725
 #EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="GB : DISCOVERY TURBO" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="Entertainment",DISCOVERY TURBO
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53881
 #EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="GB : DISCOVERY TURBO +1" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="Entertainment",DISCOVERY TURBO +1
@@ -163,6 +163,8 @@ http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/12.m3u8
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/1280x720_2891636/index.m3u8
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Viva_TV_logo.jpg?20131202073513" group-title="Movies",VIVACinema
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/13.m3u8
+#EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/Q0LYKuD.png" group-title="Live TV",Celestial Movies Pinoy
+http://live.lordstreams.co:8080/david1/david1/567699
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/9.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
