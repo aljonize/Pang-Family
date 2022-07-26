@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-sniper.herokuapp.com/epg/adoboTV.php?format=xml,https://iptv-sniper.herokuapp.com/epg/skycable.php?format=xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
@@ -35,8 +35,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="Local",One PH
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="News",DZRH
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225370
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/DZRH_TV_Logo_%282021%29.jpg/revision/latest?cb=20210701033828" group-title="News",DZRH
+http://live.lordstreams.co:8080/david1/david1/567709
 #EXTINF:-1 tvg-id="SuperRadyoDZBB.ph" tvg-name="Super Radyo DZBB" tvg-country="PH" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/640px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
@@ -84,6 +84,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/24.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Live TV",Disney Channel
 http://ky-iptv.com:80/theruler/theruler/176246.ts
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/jPRakWs.png" group-title="Live TV",Disney Jr
+http://clientsportals.tv/play/live.php?mac=00:1A:79:6F:F7:5B&stream=16770&extension=ts
 #EXTINF:-1 tvg-id="NickelodeonPhilippines.ph" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/28.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png" group-title="Kids",Nick Jr.
@@ -115,7 +117,7 @@ http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/46.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.sg" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.nicepng.com/png/full/332-3321610_discovery-discovery-channel.png" group-title="Entertainment",Discovery Channel
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest/scale-to-width-down/150?cb=20120123233047" group-title="Entertainment",Discovery Science
-http://wayforward.xyz:25461/Stacy1/Stacy1/54946
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=253170&extension=ts&play_token=2jcjaEkUPQ
 #EXTINF:-1 tvg-id="NationalGeographicPhilippines.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/64.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildAsia.hk" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
@@ -148,7 +150,7 @@ http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_300_h_100.jpg" group-title="Sports",Fight Sports
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="Sports",WWE Network
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/199590
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/32.m3u8
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="Sports",FOX SPORTS 1
@@ -201,7 +203,13 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=
 http://103.105.213.251:8443/live/NEViO4zDC-ldLmUw0c08ng/1658838340/16.m3u8
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&FLIX HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1" group-title="Movies",&FLIX HD
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=862616&extension=ts&play_token=v9YGqpC24p
+
+#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-logo="https://i.imgur.com/BEWFj2J.png" group-title="Live TV",&Prive
 http://appleiptv.com:80/9242/9242/42961
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-logo="https://i.imgur.com/RskbyyO.png" group-title="Live TV",Movies Now
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
