@@ -153,9 +153,14 @@ http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/18.m3u8
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/32.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US : FOX SPORTS 1" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="Sports",FOX SPORTS 1
+#EXTINF:-1 ch-number="142" tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860061&extension=ts&play_token=329zFNX3So
+
+#EXTINF:-1 ch-number="143" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860062&extension=ts&play_token=InkGFQ4vVN
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/36.m3u8
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US : FOX SPORTS 2" tvg-logo="http://wayforward.xyz:25461/images/d43b07584a24eabd71bf1263f1bda1d7.png" group-title="Sports",FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cms.jibecdn.com/prod/discovery1-eurosport/assets/HEADER-NAV_LOGO-en-us-1621935515504.png" group-title="Sports",Eurosport
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/48.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/14.m3u8
