@@ -15,9 +15,9 @@ http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/8.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA 7
 https://bit.ly/3zsxmj3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390715
+http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
-https://rotf.lol/sari-sari
+http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
 
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/76.m3u8
@@ -68,7 +68,7 @@ http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/21.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53308
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
-http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/47.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=47
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/87.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="Lifestyle",Asian Food Network
