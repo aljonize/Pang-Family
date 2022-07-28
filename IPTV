@@ -178,7 +178,7 @@ http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/9.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
-http://203.154.177.124:8899/live/ch21/chunks.m3u8
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="Movies",Rock Entertainment
 http://103.105.213.251:8443/live/1nVh5nyW-U_HwXJtbNCUZg/1659050570/56.m3u8
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png" group-title="Movies",Rock Extreme
