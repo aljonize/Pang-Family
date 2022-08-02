@@ -11,7 +11,7 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 https://rotf.lol/ptv04
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
-http://103.105.213.251:8443/live/jm1v6CF5IoDTPATaF9HxCA/1659351292/8.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA 7
 https://bit.ly/3zsxmj3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
