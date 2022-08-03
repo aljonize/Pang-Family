@@ -5,16 +5,16 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 https://bit.ly/3t5djn0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
+#EXTINF:-1 tvg-id="DZMMTELERADYO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Live TV",PTV
+#EXTINF:-1 tvg-id="PTV.ph"tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Live TV",PTV
 https://rotf.lol/ptv04
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA 7
 https://bit.ly/3zsxmj3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
@@ -31,7 +31,7 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="BeamTV.ph" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="Local",Beam TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="News",GTV
+#EXTINF:-1 tvg-id="GMANewsTV.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="News",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="Local",One PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=6
@@ -55,9 +55,12 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=79
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 #EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=60
+#EXTINF:-1 ch-number="17" tvg-id="TAPTV" tvg-name="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV",TAPTV
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z9PO9TCic3B5l9MHq_sxtP84_sW68HkifQU8uV7M8do3MoiFLDKnUZOYzD8Y7qOXZo
+
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=62
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
+#EXTINF:-1 tvg-id="TRAVELCHANNEL" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 https://iptv-sniper.herokuapp.com/localtv.php?channel=55
@@ -73,7 +76,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=47
 https://iptv-sniper.herokuapp.com/localtv.php?channel=87
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="Lifestyle",Asian Food Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63
-#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/161304
 #EXTINF:-1 tvg-id="foodnetwork.ca" group-title="Lifestyle" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,6 +85,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
+#EXTINF:-1 ch-number="170" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=86
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Live TV",Disney Channel
 http://ky-iptv.com:80/theruler/theruler/176246.ts
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/jPRakWs.png" group-title="Live TV",Disney Jr
@@ -172,7 +177,7 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/
 https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 #EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/Q0LYKuD.png" group-title="Live TV",Celestial Movies Pinoy
 http://live.lordstreams.co:8080/david1/david1/567699
-#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
+#EXTINF:-1 tvg-id="TMCTAGALIZEDMOVIECHANNEL" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=9
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
@@ -208,11 +213,20 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=16
 
+#EXTINF:-1 ch-number="45" tvg-id="TapActionFlixHD" tvg-name="Tap Action Flix" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="Movies & Series",Tap Action Flix
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-yzuDBLoj2eYOq9kWdCCcdBVg2Ur67La_RqtQRtF0l2BvT5zqs1ll9gYCyCVKloEE
+
+#EXTINF:-1 ch-number="46" tvg-id="TAPEDGE" tvg-name="TAP Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TapEdge-ph.png/380px-TapEdge-ph.png" group-title="Movies & Series",TAP Edge
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z_pRVr-aYBr73zWXnVoxl1-Q8i7nLZ-GnOTPKXLZ1vvvWuat6N5VgvqZOjz4VqCVJc
+
+#EXTINF:-1 ch-number="47" tvg-id="TAPMOVIES" tvg-name="Tap Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies & Series",Tap Movies
+http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-tOdmAY7pwSOITecJ_pWPJNGm3NqZBjTk84Ow6O7peR6OOmN3Wre8Hd1lpX3N8ZZ4
+
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&FLIX HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1" group-title="Movies",&FLIX HD
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=862616&extension=ts&play_token=v9YGqpC24p
 
 #EXTINF:-1 tvg-id="AndPriveHD.in" tvg-logo="https://i.imgur.com/BEWFj2J.png" group-title="Live TV",&Prive
-http://appleiptv.com:80/9242/9242/42961
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862618&extension=m3u8
 
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-logo="https://i.imgur.com/RskbyyO.png" group-title="Live TV",Movies Now
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
