@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-sniper.herokuapp.com/epg/adoboTV.php?format=xml,https://iptv-sniper.herokuapp.com/epg/skycable.php?format=xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m3u8
-#EXTINF:-0 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 https://bit.ly/3t5djn0
@@ -55,7 +55,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=79
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 #EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=60
-#EXTINF:-1 ch-number="17" tvg-id="TAPTV" tvg-name="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV",TAPTV
+#EXTINF:-1 tvg-id="TAPTV" tvg-name="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV",TAPTV
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z9PO9TCic3B5l9MHq_sxtP84_sW68HkifQU8uV7M8do3MoiFLDKnUZOYzD8Y7qOXZo
 
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
@@ -85,7 +85,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
-#EXTINF:-1 ch-number="170" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
+#EXTINF:-1 ch-number="173" tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",[✓] CONtv Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=86
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Live TV",Disney Channel
 http://ky-iptv.com:80/theruler/theruler/176246.ts
@@ -131,7 +133,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=51
 https://iptv-sniper.herokuapp.com/localtv.php?channel=49
 #EXTINF:-1 tvg-id="HistoryPhilippines.ph" tvg-name="HistoryChannel.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
 https://iptv-sniper.herokuapp.com/localtv.php?channel=53
-#EXTINF:-1 ch-number="106" tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
+#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 https://iptv-sniper.herokuapp.com/localtv.php?channel=33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/131249/26091_576852.jpeg" group-title="Entertainment",Techstorm
 https://iptv-sniper.herokuapp.com/localtv.php?channel=78
@@ -158,10 +160,10 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=18
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=1018&extension=ts&play_token=dqykqcwyUG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=32
-#EXTINF:-1 ch-number="142" tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860061&extension=ts&play_token=329zFNX3So
 
-#EXTINF:-1 ch-number="143" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
 http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860062&extension=ts&play_token=InkGFQ4vVN
 #EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
@@ -213,13 +215,13 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=16
 
-#EXTINF:-1 ch-number="45" tvg-id="TapActionFlixHD" tvg-name="Tap Action Flix" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="Movies & Series",Tap Action Flix
+#EXTINF:-1 tvg-id="TapActionFlixHD" tvg-name="Tap Action Flix" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="Movies & Series",Tap Action Flix
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-yzuDBLoj2eYOq9kWdCCcdBVg2Ur67La_RqtQRtF0l2BvT5zqs1ll9gYCyCVKloEE
 
-#EXTINF:-1 ch-number="46" tvg-id="TAPEDGE" tvg-name="TAP Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TapEdge-ph.png/380px-TapEdge-ph.png" group-title="Movies & Series",TAP Edge
+#EXTINF:-1 tvg-id="TAPEDGE" tvg-name="TAP Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TapEdge-ph.png/380px-TapEdge-ph.png" group-title="Movies & Series",TAP Edge
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z_pRVr-aYBr73zWXnVoxl1-Q8i7nLZ-GnOTPKXLZ1vvvWuat6N5VgvqZOjz4VqCVJc
 
-#EXTINF:-1 ch-number="47" tvg-id="TAPMOVIES" tvg-name="Tap Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies & Series",Tap Movies
+#EXTINF:-1 tvg-id="TAPMOVIES" tvg-name="Tap Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/220px-TapMovies-ph.png" group-title="Movies & Series",Tap Movies
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z-tOdmAY7pwSOITecJ_pWPJNGm3NqZBjTk84Ow6O7peR6OOmN3Wre8Hd1lpX3N8ZZ4
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&FLIX HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png?dl=1" group-title="Movies",&FLIX HD
