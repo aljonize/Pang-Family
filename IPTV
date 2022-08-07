@@ -85,7 +85,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
-#EXTINF:-1 ch-number="173" tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",[✓] CONtv Anime
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-name="CONtv Anime" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Kids",CONtv Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=86
@@ -183,6 +183,9 @@ http://live.lordstreams.co:8080/david1/david1/567699
 https://iptv-sniper.herokuapp.com/localtv.php?channel=9
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies & Series",Thrill
+http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73669
 
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="Movies",Rock Entertainment
 https://iptv-sniper.herokuapp.com/localtv.php?channel=56
