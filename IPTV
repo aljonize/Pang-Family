@@ -9,18 +9,18 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 https://rotf.lol/ptv04
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
-http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73738
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA 7
-http://iptv-sniper.herokuapp.com/xtremetv.php?channel=73735
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
 #EXTINF:-1 tvg-id="IBC13.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="Local",IBC 13
 http://user.scalecdn.co:8080/live/Alicia/Alicia/567720.m3u8
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-logo="https://i.imgur.com/L2wTMJl.png" catchup-source="http://ky-iptv.com:25461/live/theruler/theruler/1806811.ts" group-title="Live TV",Sari Sari Channel
 http://fortv.cc:8080/live/jsc/jsc/101824.m3u8
 
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=76
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=76
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://www.seekpng.com/png/full/278-2788116_the-ever-innovative-abs-cbn-news-channel-will.png", group-title="Local",ANC
-http://103.105.213.251:8443/live/GFPEty4DppHZ-9xmx-0PAw/1659996013/37.m3u8
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=37
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://www.seekpng.com/png/full/50-504022_bloomberg-logo-white-transparent.png" group-title="News",Bloomberg
 https://iptv-sniper.herokuapp.com/localtv.php?channel=44
 #EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1024px-CNN_Philippines_Logo.svg.png" group-title="News",CNN Philippines
