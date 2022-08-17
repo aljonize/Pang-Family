@@ -53,8 +53,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=43
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=79
 #EXTINF:-1 tvg-id="MetroChannel.ph" tvg-name="Metro Channel" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Lifestyle",Metro Channel
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=58
-#EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=60
+
 #EXTINF:-1 tvg-id="TAPTV" tvg-name="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Local TV",TAPTV
 http://dmtn.tv:8080/play/-clq0hKzcHsrYWk5RXxnaLQEOdIgIuzwtXwkv8LtdKue81H7sa1DtgsoGlRWq1eOtyT6mTV2Vm-3ddUEZrqNokb5J_sE3vL4WER5bopJ6z9PO9TCic3B5l9MHq_sxtP84_sW68HkifQU8uV7M8do3MoiFLDKnUZOYzD8Y7qOXZo
 
