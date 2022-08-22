@@ -68,7 +68,7 @@ http://103.105.213.251:8443/live/jVxrEr1bdS-nA4kB2e3M2g/1661251521/35.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/jVxrEr1bdS-nA4kB2e3M2g/1661251521/21.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
-http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53308
+http://user.scalecdn.co:8080//live/Alicia/Alicia/3688.ts
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
 http://103.105.213.251:8443/live/jVxrEr1bdS-nA4kB2e3M2g/1661251521/47.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
