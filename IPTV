@@ -166,7 +166,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 http://103.105.213.251:8443/live/X3PtK0Z3vY9GsvGPt7ve_g/1661532465/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cms.jibecdn.com/prod/discovery1-eurosport/assets/HEADER-NAV_LOGO-en-us-1621935515504.png" group-title="Sports",Eurosport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.jibecdn.com/prod/discovery1-eurosport/assets/HEADER-NAV_LOGO-en-us-1621935515504.png" group-title="Sports",Eurosport
 http://103.105.213.251:8443/live/X3PtK0Z3vY9GsvGPt7ve_g/1661532465/48.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 http://103.105.213.251:8443/live/X3PtK0Z3vY9GsvGPt7ve_g/1661532465/14.m3u8
