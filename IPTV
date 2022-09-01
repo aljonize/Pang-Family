@@ -181,6 +181,8 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57384
 http://103.105.213.251:8443/live/B-EFGb8fkl7e1Jb3mrSrxA/1662129256/13.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/Q0LYKuD.png" group-title="Live TV",Celestial Movies Pinoy
 http://live.lordstreams.co:8080/david1/david1/567699
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies",Thrill
+https://iptv-sniper.herokuapp.com/gatekeeper.php?token=c2VDQ3g2U25qd0pjMGlCVm5nSUpFYk9DQVdOb3dWdzNOdE9tV2hYT0BkMEJvK1ZTZXB0ZW1iZXIxMjAyMg&channel=aHR0cHM6Ly9pcHR2LXNuaXBlci5oZXJva3VhcHAuY29tL3BsYXllci9za3ltb3ZpZWlwdHYucGhwP2NoYW5uZWw9MTc2&key=dXBza3ltb3ZpZWlwdHZAZDBCbytWU2VwdGVtYmVyMTIwMjI
 #EXTINF:-1 tvg-id="TMCTAGALIZEDMOVIECHANNEL" tvg-name="TMC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637141253_tmc.jpg" group-title="Movies",TMC
 http://103.105.213.251:8443/live/B-EFGb8fkl7e1Jb3mrSrxA/1662129256/9.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
