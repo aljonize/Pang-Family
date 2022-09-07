@@ -4,8 +4,9 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/98.m3u8
 #EXTINF:-1 tvg-id="DZMMTELERADYO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/41.m3u8
-
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/432.m3u8
+#EXTINF:-1 tvg-id="A2ZChannel11.ph" tvg-name="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/A2Z_Channel_11.png/512px-A2Z_Channel_11.png" group-title="Local TV",A2Z
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/353.m3u8
 #EXTINF:-1 tvg-id="PTV.ph"tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="Live TV",PTV
 https://rotf.lol/ptv04
 
@@ -75,7 +76,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1024px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/55.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/35.m3u8
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/461.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/118.m3u8
 
@@ -112,7 +113,7 @@ http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/149.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nick Toons
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56372
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",Dreamworks TV
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/23.m3u8
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/422.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network
@@ -158,7 +159,7 @@ http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/158.m3u8
 http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/164.m3u8
 
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MYX.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/75.m3u8
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="Music",MTV Live
 http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/131.m3u8
 
@@ -193,7 +194,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/yNLnqYS.png" group-title="Live TV",Fox Sports 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/36.m3u8
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cms.jibecdn.com/prod/discovery1-eurosport/assets/HEADER-NAV_LOGO-en-us-1621935515504.png" group-title="Sports",Eurosport
 http://103.152.216.26:8443/live/qfxTaxODeVtd3LbJlihZLw/1662592549/139.m3u8
 
@@ -247,7 +248,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
-http://103.152.216.26:8443/live/UcDhMJDIrXG1Am0Xwl8l2g/1662475424/59.m3u8
+http://103.73.58.238:8443/live/qcNMOPCkexhkWQC2RJkNjA/1662573967/435.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" catchup-source="http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8" group-title="Live TV",Star Movies
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862740&extension=ts
