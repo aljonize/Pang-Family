@@ -151,7 +151,7 @@ http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/9.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
-http://203.154.177.124:8899/live/ch21/chunks.m3u8
+http://103.152.216.26:8443/live/dWOU7ATl5KtlyeKVblXRdQ/1675018174/176.m3u8
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="Movies",Rock Entertainment
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/56.m3u8
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rock_Extreme_White_Logo.png" group-title="Movies",Rock Extreme
