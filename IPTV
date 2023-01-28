@@ -46,11 +46,11 @@ http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/79.m3u8
 #EXTINF:-1 tvg-id="MetroChannel.ph" tvg-name="Metro Channel" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Metro_Channel_logo.png" group-title="Lifestyle",Metro Channel
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/58.m3u8
 #EXTINF:-1 tvg-id="ETC.ph" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
-http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/60.m3u8
+#http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/62.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
+#EXTINF:-1 tvg-id="TRAVEL.CHANNEL.ph" tvg-name="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment",Trvl
+https://m3u-editor.com/serve/sinigangtv/749420008
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png" group-title="Entertainment",Lifetime
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/55.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
@@ -58,45 +58,39 @@ http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/35.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/21.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
-http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53308
+https://m3u-editor.com/serve/sinigangtv/749419944
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/47.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Lifestyle",HGTV
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/87.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png" group-title="Lifestyle",Asian Food Network
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/63.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53492
+#EXTINF:-1 tvg-id="FOOD.NETWORK.ph" tvg-name="CA : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
+#http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53685
+#EXTINF:-1 tvg-id="FOOD.NETWORK.ph" tvg-name="US-720 : FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle",FOOD NETWORK
+https://m3u-editor.com/serve/sinigangtv/749419998
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/24.m3u8
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="Kids",DISNEY CHANNEL
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53673
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="Kids",DISNEY CHANNEL
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56368
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="http://n2086.securepoint.io:25461/images/565dae30b97153572f26f9ed38f72f0a.png" group-title="Kids",DISNEY JR
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53674
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="Kids",DISNEY JR
-http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56369
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.(West).(DISNEY).us" tvg-name="KIDS : DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="Kids",DISNEY CHANNEL
+https://m3u-editor.com/serve/sinigangtv/749419780
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="KIDS : DISNEY JR" tvg-logo="http://wayforward.xyz:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="Kids",DISNEY JR
+https://m3u-editor.com/serve/sinigangtv/749419781
+
 #EXTINF:-1 tvg-id="NickelodeonPhilippines.ph" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/512px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/28.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/512px-Nick_Jr._Channel_logo.svg.png" group-title="Kids",Nick Jr.
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/27.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nick Toons
-http://wayforward.xyz:25461/Stacy1/Stacy1/53359
+https://m3u-editor.com/serve/sinigangtv/749419789
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",Dreamworks TV
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/23.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON.NETWORK.ph" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/1000?cb=20190430185347" group-title="Kids",Boomerang
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171955
+https://m3u-editor.com/serve/sinigangtv/749419770
 #EXTINF:-1 tvg-id="" tvg-name="Solar Learning" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://solarlearning.ph/wp-content/uploads/extender-pro/genesis/images/logo-deped-als.png" group-title="Kids",DepEd ALS
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/34.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="GB : DISCOVERY TURBO" tvg-logo="http://n2086.securepoint.io:25461/images/45e12c4710685a8dcbc3216a509dddd8.png" group-title="Entertainment",DISCOVERY TURBO
