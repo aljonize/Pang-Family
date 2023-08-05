@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/ypljpzfn/2728/chunklist.m3u8
+http://femsrjrsdnumber1.dimcel.art/bcnxykcAb/UopVfDxMwr/xeyJ1cmwiOiJodHRwOi8vbWFnLnJzNG90dC5jb20vcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6RDM6OTE6QTImc3RyZWFtPTYyNjk1NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1neWF0aWk4bTUwIiwiaWQiOjN9/fast
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="Local",Kapamilya Channel
 http://103.105.213.251:8443/live/fePVm-3HcQK-m8aAIprkpg/1675018823/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/799px-TeleRadyo_Logo.svg.png" group-title="News",Teleradyo
